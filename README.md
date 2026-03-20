@@ -18,7 +18,8 @@ The repository contains:
 
 - Network: Stellar Testnet
 - Contract address: `CA4X4H5SVVETYWEDTDEN6BDXDT352BDF5FXN2PQ5NU6NVIGXSFWPK7FG`
-- Contract explorer:https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CA4X4H5SVVETYWEDTDEN6BDXDT352BDF5FXN2PQ5NU6NVIGXSFWPK7FG;;
+- Contract explorer link:-
+- https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CA4X4H5SVVETYWEDTDEN6BDXDT352BDF5FXN2PQ5NU6NVIGXSFWPK7FG;;
 
 ## Project Structure
 
