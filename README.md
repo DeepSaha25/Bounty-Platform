@@ -2,6 +2,8 @@
 
 A full-stack decentralized bounty application built on Stellar Soroban.
 
+![Bounty Platform](./bounty.png)
+
 Users can:
 - Create funded bounties
 - Submit work links
@@ -11,6 +13,12 @@ Users can:
 The repository contains:
 - A Soroban smart contract (Rust)
 - A Next.js frontend (TypeScript) connected via Freighter wallet
+
+## Deployed Contract
+
+- Network: Stellar Testnet
+- Contract address: `CA4X4H5SVVETYWEDTDEN6BDXDT352BDF5FXN2PQ5NU6NVIGXSFWPK7FG`
+- Contract explorer:https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CA4X4H5SVVETYWEDTDEN6BDXDT352BDF5FXN2PQ5NU6NVIGXSFWPK7FG;;
 
 ## Project Structure
 
